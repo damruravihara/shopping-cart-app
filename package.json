@@ -1,5 +1,6 @@
 {
   "name": "shoppingcartappv2",
+  "displayName": "Shopping Cart",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -10,6 +11,7 @@
     "lint": "eslint ."
   },
   "dependencies": {
+    "@bam.tech/react-native-make": "^3.0.3",
     "@react-native-async-storage/async-storage": "^2.2.0",
     "@react-navigation/native": "^5.9.8",
     "@react-navigation/stack": "^5.14.9",
