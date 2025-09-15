@@ -28,8 +28,8 @@ A simple **React Native** shopping cart application that stores all data locally
 1. Clone the repository:
 
 ```bash
-git clone <your-repo-url>
-cd ShoppingCartApp
+git clone <https://github.com/damruravihara/shopping-cart-app.git>
+cd shopping-cart-app
 ```
 
 2. Install dependencies:
