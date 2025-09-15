@@ -1,4 +1,4 @@
-# ShoppingCartApp
+# Shopping Cart App
 
 A simple **React Native** shopping cart application that stores all data locally using `AsyncStorage`. It demonstrates a minimal but complete flow: product management (admin), adding products to a cart, and a cart view showing unit price, shipping, tax and total per item.
 
